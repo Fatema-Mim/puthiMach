@@ -1,0 +1,116 @@
+body{
+    background-color: #D4D4D4 !important;
+}
+.card{
+    border: 1px solid black;
+    background-color: #262626;
+    color: white;
+    box-shadow: 1px 1px 20px black;
+}
+.card-columns{
+    column-gap: 0rem;
+    margin: 10px;
+}
+.card-columns .card:first-child{
+    box-shadow: none;
+}
+.nav-tabs{
+    background-color: #302f2f;
+    border-bottom: none;
+}
+
+.mycard{
+    background-color: white;
+    color: purple;
+}
+
+.modal-content{
+    background-color: #444444;
+    color: #e5e3e3;
+}
+.lightbtn{
+    color: #e5e3e3;
+
+}
+
+
+.post-title{
+    text-align: left;
+    width: 100%;
+    float:left;
+}
+.likes{
+    margin-top: 1rem;
+}
+.card-text{
+    text-align: left;
+}
+.card-footer{
+    text-align: center;
+    padding: .75rem .55rem;
+}
+.commentz{
+    float: left;
+    width: 90%;
+    margin-left: 1rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+}
+.heartbreak{
+    position: relative;
+    top: .1rem;
+    left: .5rem;
+    float: right;
+}
+.heartbreak:hover{
+    color: #ad0000;
+    transition:.6s;
+}
+.heartbreak:active{
+    color: white;
+    transition:.1s;
+}
+
+
+
+
+.form-control:focus {
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    box-shadow: none;
+    color: #bfbfbf;
+}
+.cards-spacing{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.little-btn{
+    margin: 3px;
+}
+
+
+
+/* @media screen and (max-width: 430px) {
+    .new-post{
+    content: '<i class="far fa-edit"></i>';
+    }
+}
+@media screen and (min-width: 431px) {
+    .new-post{
+    content: "Create A New Post";    
+    }
+ } */
+@media screen and (min-width: 312px ) and ( max-width:812px) {
+    .post-title{
+        text-align: left;
+        width: 100%;
+        float:left;
+    }
+    
+
+ }
+        

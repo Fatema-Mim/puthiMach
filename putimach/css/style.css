@@ -1,0 +1,61 @@
+.my_code{
+	background: rgba(0, 0, 0, 0.6);
+}
+h1{
+	margin-bottom: 0px !important;
+}
+.card-body{
+	padding-top: 0px !important;
+}
+.form-title{
+	margin-top: 15px;
+}
+.navbar-custom{
+	color: #FFFFFF;
+    background-color: #e00aaabd;
+}
+.text-info .logo{
+	height: 120px;
+	width: 300px;
+}
+.puti_link .card{
+	background-color: #fcc4cc;
+	box-shadow: 0 0.25em 0 0 hsla(195,47%,50%,0),0 4px 5px rgba(0,0,0,0.2);
+}
+.puti_link .card-body:hover{
+	color: #ad0000;
+    transition:.6s;
+}
+.puti_link .card-body:active{
+	color: white;
+    transition:.1s;
+}
+.puti_link a:link{
+	text-decoration: none;
+}
+@media screen and (max-width: 767px){
+	.col-6{
+		width: 90% !important;
+	}
+	.container > header, div, ul, .text-center {
+		padding: 0px;
+		margin: 0px;
+	}
+	.my_code{
+		
+		margin: 0;
+		padding: 0;
+	}
+	
+	.text-info img{
+		height: 100px;
+		width: 200px;
+	}
+}
+@media screen and (min-width: 1180px){
+	.col-6{
+		width: 50%;
+	}
+
+
+}

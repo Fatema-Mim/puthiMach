@@ -1,0 +1,60 @@
+[06-Feb-2021 17:43:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:43:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:43:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:43:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:43:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:43:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:43:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:43:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:43:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:43:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:43:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:43:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:43:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:43:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:43:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:49:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:49:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:49:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:49:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:50:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:50:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:50:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:50:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:50:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:51:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:51:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:51:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:51:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:51:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:51:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:51:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:51:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:51:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:51:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:52:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:52:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:52:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:52:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:52:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:58:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:58:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:58:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:58:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:58:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 17:59:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 17:59:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 17:59:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 17:59:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 17:59:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
+[06-Feb-2021 19:37:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/puti/public_html/chatok/db.php on line 6
+[06-Feb-2021 19:37:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/nav.php on line 45
+[06-Feb-2021 19:37:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/nav.php on line 46
+[06-Feb-2021 19:37:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/puti/public_html/chatok/chat12.php on line 30
+[06-Feb-2021 19:37:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/puti/public_html/chatok/chat12.php on line 32
